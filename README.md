@@ -1,6 +1,6 @@
 # Requirements
 
-- Node.js > 10.x
+- Node.js >= 10.x
 - NPM package manager
 
 ## Installation
